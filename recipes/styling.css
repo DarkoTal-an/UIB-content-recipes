@@ -1,7 +1,14 @@
 body {
     background-color: aliceblue;
+    color: #4a4a4a;
+    font: 19px Lato, sans-serif;
+    
 }
 
 h1 {
     color: #8e4657;
+}
+
+h1, h2, h3, h4 {
+    font: "Playfair", serif;
 }
