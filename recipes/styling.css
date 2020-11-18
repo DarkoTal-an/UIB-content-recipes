@@ -12,3 +12,18 @@ h1 {
 h1, h2, h3, h4 {
     font: "Playfair", serif;
 }
+
+/* buttons-jump links to the recipe & video */
+
+.buttons {
+    background-color: black; /* black */
+    border: 3px solid black;
+    border-radius: 15px;
+    color: white;
+    padding: 15px 32px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+ 
+}
